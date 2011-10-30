@@ -1,0 +1,3 @@
+#/bin/sh
+
+xrandr --output VGA1 --mode 1680x1050 --right-of LVDS1 --output LVDS1 --mode 1024x600
