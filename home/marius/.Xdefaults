@@ -1,0 +1,4 @@
+!Emacs setting; reduces startup time
+emacs.menuBar: off
+emacs.toolBar: 0
+emacs.verticalScrollBars: off
