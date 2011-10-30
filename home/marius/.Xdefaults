@@ -1,3 +1,6 @@
+!xterm
+XTerm*faceName: xft:Inconsolata:pixelsize=16
+
 !Emacs setting; reduces startup time
 emacs.menuBar: off
 emacs.toolBar: 0
